@@ -1,0 +1,2 @@
+I am file1.txt
+我是file1.txt
