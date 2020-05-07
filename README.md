@@ -1,6 +1,6 @@
 # Go语言手写简单的Web框架
 
-此项目学习了[教程](https://geektutu.com/post/gee.html)，模仿Gin实现一个简单的Web框架，重在了解Web框架，我也借此熟悉一个Golang
+此项目学习了[教程](https://geektutu.com/post/gee.html)，模仿Gin实现一个简单的Web框架，重在了解Web框架，我也借此熟悉一下Golang
 
 ## Handler接口
 
